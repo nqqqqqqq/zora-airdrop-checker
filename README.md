@@ -5,7 +5,7 @@
     ## 📦 Features
 
     - Reads wallet addresses from `wallets.txt`
-    - Sends GraphQL queries to [Zora API](https://api.zora.co/universal/graphql)
+    - Sends GraphQL queries to [[Zora API](https://api.zora.co/universal/graphql)]
     - Retries on errors or server overload
     - Saves wallets with non-zero token balances to `good.txt`
     - Multithreaded wallet processing
@@ -14,7 +14,7 @@
 
     1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/zora-airdrop-checker.git
+    git clone https://github.com/nqqqqqqq/zora-airdrop-checker.git
     cd zora-airdrop-checker
     ```
 
